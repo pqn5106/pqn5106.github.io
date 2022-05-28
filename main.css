@@ -95,9 +95,8 @@ nav a:hover::before {
 
 #job-description {
     text-align: center;
-    -webkit-text-stroke: .1px white;
-    color: transparent;
-    font-weight: 100px;
+    color: white;
+    font-weight: 100;
 }
 
 @keyframes fadeInAnimation {
