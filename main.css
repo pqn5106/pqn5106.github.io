@@ -28,6 +28,13 @@ body {
     padding: 10px 0;
 }
 
+.about-section{
+    position: relative;
+    left: 50px;
+    color: white;
+    
+}
+
 nav {
     float: right;
 }
